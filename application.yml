@@ -1,0 +1,6 @@
+server:
+  port: 0
+ eureka:
+  client:
+  servie-url:
+   defaultZone: http://eurrka1:8761/eureka/
